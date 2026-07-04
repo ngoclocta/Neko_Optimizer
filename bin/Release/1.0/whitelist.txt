@@ -1,0 +1,8 @@
+# Danh sach app duoc phep chay nen
+# Format: app.exe:type  hoac  app.exe (mac dinh: normal)
+# Types: browser | audio | messenger | normal
+# Messenger: app.exe:messenger:15  (wake moi 15 giay)
+chrome.exe:browser
+discord.exe:messenger
+spotify.exe:audio
+zalo.exe:messenger
