@@ -1,0 +1,14 @@
+# Danh sach app duoc phep chay nen voi muc uu tien cao hon
+# Format: app.exe:type  hoac  app.exe (type mac dinh: normal)
+#
+# Types:
+#   browser   - Kiem tra CPU; Suspend khi that su idle (phu hop: Chrome, Edge, Firefox)
+#   audio     - KHONG bao gio Suspend / EmptyWorkingSet (phu hop: Spotify, music player)
+#   messenger - Suspend khi idle, tu wake moi 30 giay de nhan notification
+#             - Co the tuy chinh wake interval: app.exe:messenger:15 (wake moi 15 giay)
+#   normal    - Throttle thong thuong (mac dinh)
+#
+chrome.exe:browser
+discord.exe:messenger
+spotify.exe:audio
+zalo.exe:messenger
