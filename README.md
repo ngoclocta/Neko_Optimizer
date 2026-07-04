@@ -64,4 +64,4 @@ Important Notes | Một số lưu ý quan trọng
 
 ## 📄 License
  EN : Personal project — free to use for personal and non-commercial purposes.
- VN : Dự án cá nhân — sử dụng tự do cho mục đích cá nhân và phi thương mại.                                                                           
+                                                                         
