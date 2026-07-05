@@ -64,4 +64,10 @@ Important Notes | Một số lưu ý quan trọng
 
 ## 📄 License
  EN : Personal project — free to use for personal and non-commercial purposes.
+## Credits & Acknowledgments
+
+This project references and uses some ideas/code from the following open-source project:
+* [ThreadPilot]https://github.com/PrimeBuild-pc/ThreadPilot by PrimeBuild-pc link :https://github.com/PrimeBuild-pc .
+
+Thanks to the ThreadPilot development team for their excellent contributions to the community!
                                                                          
