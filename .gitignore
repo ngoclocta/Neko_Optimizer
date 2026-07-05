@@ -1,0 +1,18 @@
+# Binaries and executables
+neko_optimizer.exe
+optimizer.exe
+*.class
+*.log
+
+# .NET artifacts
+bin/
+obj/
+optimizer.csproj
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Reference folders
+open srouce program from github--read only----/
+

@@ -1,0 +1,4 @@
+chrome.exe
+discord.exe
+spotify.exe
+zalo.exe
